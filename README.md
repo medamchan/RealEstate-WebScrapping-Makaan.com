@@ -9,7 +9,7 @@ Python3
 
 3. Time Module
 
-4.Pandas Module
+4. Pandas Module
 # DataFrame Data includes:
 1. Seller information
 
