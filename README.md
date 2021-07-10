@@ -1,13 +1,13 @@
 # RealEstate-WebScrapping-Makaan.com
 Scrapped 50 pages of 1000 records from Makaan.com
-#Programming Language
+# Programming Language
 Python3
-#Modules used
+# Modules used
 1.Requests Module
 2.Beautiful soup Module
 3.time Module
 3.pandas Module
-#DataFrame Data includes:
+# DataFrame Data includes:
 1.Seller information
 2.Seller type
 3.Number of BHK
@@ -16,8 +16,8 @@ Python3
 6.Location
 7.Status
 8.Price per sqft
-#Data Source link:
+# Data Source link:
 web page = https://www.makaan.com/hyderabad-residential-property/buy-property-in-hyderabad-city
-#Contents of repository
+# Contents of repository
 1.Program for web scrapping
 2.Collected data in csv file
